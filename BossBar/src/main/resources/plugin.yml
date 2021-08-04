@@ -1,0 +1,7 @@
+name: Bossbar
+version: ${project.version}
+main: me.heathrxw.bossbar.Bossbar
+api-version: 1.15
+authors: [ Heathrxw ]
+description: A functional bossbar that rotates messages
+website: https://heathrxw.xyz/t/github
