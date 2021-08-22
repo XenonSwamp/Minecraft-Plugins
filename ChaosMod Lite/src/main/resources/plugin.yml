@@ -1,0 +1,12 @@
+name: Chaos
+version: ${project.version}
+main: Heathrxw.Xenon.ChaosMod.Chaos
+api-version: 1.16
+description: Lighter version of the ChaosMod
+author: Heathrxw
+commands:
+  chaos:
+    description: Chaos base command.
+permissions:
+  chaos.use:
+    description: Use all the commands
